@@ -1,0 +1,42 @@
+header{
+    background-image: url(https://miro.medium.com/v2/resize:fit:5740/1*PUcvumUoqGVeqLKPvJo70A.jpeg);
+    color: white;
+    padding: 3%;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    background-color:rgb(23, 23, 24,0.7)
+}
+
+ul,li,a{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+}
+
+a:hover{
+    color: aqua;
+}
+
+
+main{
+    margin: 5%;
+    width: 70%;
+    font-size: 1.5em;
+}
+
+.foot{
+    padding-left: 5%;
+    padding-top: 0;
+    height: 30vh;
+    background-color: rgb(23, 23, 24,0.7);
+    color: white;
+}
+
+body{
+    margin: 0;
+}
